@@ -1,3 +1,3 @@
-# Hello-world
+# Dette er hovedgrenen main
 This is my first repository.
 I am looking forward to learning more.
